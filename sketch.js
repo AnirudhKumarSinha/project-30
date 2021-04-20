@@ -59,7 +59,7 @@ function draw() {
   Engine.update(engine);
   textSize(30)
   text("Drag the ball and hit the tower",500,30);
-  text("press space to get another ball",500,70);
+  text("press space to get another ball",500,110);
 
  
 
